@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 This is Emma
+
+My personal Website can be found here: https://dwz92.github.io/quarto_website/
 
 <!--
 **dwz92/dwz92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
